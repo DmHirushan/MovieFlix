@@ -10,6 +10,7 @@ import useFetch from "@/services/useFetch";
 import {fetchMovies} from "@/services/api";
 import MovieCard from "@/components/MovieCard";
  import {getTrendingMovies} from "@/services/appwrite";
+ import TrendingMovieCard from "@/components/TrendingMovieCard";
 
 export default function Index() {
 
@@ -66,9 +67,7 @@ export default function Index() {
                                 className='mb-4 mt-3'
                                 data={trendingMovies}
                                 renderItem={({item, index}) => (
-                                    <Text className='text-white text-sm'>
-                                        {item.title}
-                                    </Text>
+                                    <TrendingMovieCard movie={item} index={index} />
                                 )}
                                 keyExtractor={(item) => item.movie_id.toString() }
                             />
