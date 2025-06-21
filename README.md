@@ -3,7 +3,18 @@
 A sleek and responsive **mobile app** version of the Movie Explorer platform, built with **React Native** and powered by the **TMDB API**. The app fetches movie data (including trending movies cached in  AppWrite backend), supports fast search, and displays rich movie details in an intuitive mobile interface.
 
 ---
+## 📸 Screenshots
 
+### 🔍 Home Screen
+![Home Screen](./assets/screenshots/WhatsApp%20Image%202025-06-21%20at%2020.29.51_40f127a6.jpg)
+
+### 🔍 Movie Details
+![Search Screen](./assets/screenshots/WhatsApp%20Image%202025-06-21%20at%2020.29.52_c16dc2ff.jpg)
+
+### 🎬 Search Screen
+![Details Screen](./assets/screenshots/WhatsApp%20Image%202025-06-21%20at%2020.29.53_0cf1231c.jpg)
+
+---
 
 
 ## ⚙️ Tech Stack
