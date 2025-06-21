@@ -1,6 +1,6 @@
 # 📱 React Native Movie Explorer
 
-A sleek and responsive **mobile app** version of the Movie Explorer platform, built with **React Native** and powered by the **TMDB API**. The app fetches movie data (including trending movies cached in your own backend), supports fast search, and displays rich movie details in an intuitive mobile interface.
+A sleek and responsive **mobile app** version of the Movie Explorer platform, built with **React Native** and powered by the **TMDB API**. The app fetches movie data (including trending movies cached in  AppWrite backend), supports fast search, and displays rich movie details in an intuitive mobile interface.
 
 ---
 
@@ -13,7 +13,7 @@ A sleek and responsive **mobile app** version of the Movie Explorer platform, bu
 - **React Navigation** – Seamless navigation between screens
 - **Axios** – API calls to backend and TMDB
 - **Tailwind CSS (via NativeWind)** – Mobile-friendly styling
-- **TMDB API + Custom Backend** – Reliable and optimized movie data source
+- **TMDB API + AppWrite** – Reliable and optimized movie data source
 
 ---
 
